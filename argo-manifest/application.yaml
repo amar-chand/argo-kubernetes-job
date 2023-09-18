@@ -16,5 +16,3 @@ spec:
       prune: true
       allowEmpty: true
       selfHeal: true
-    syncOptions:
-      replace: true
